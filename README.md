@@ -4,7 +4,6 @@
 > beauty studios (nail, lash, hair). It replaces the **paper notebook**: who has how much
 > left on their card, who to remind tomorrow, how much actually came in this month.
 > Built for Chinese-speaking solo studios in North America, so the interface is in Chinese.
-> Part of the **Auctura AI** product line.
 
 v0.1 is front-end only: React 18, Vite 6, react-router (hash), Context + useReducer, plain
 CSS, no UI library, no backend, no sign-up; data lives in localStorage with JSON export and
@@ -88,4 +87,4 @@ as the primary color, gold for money, Noto Serif SC for headings.
 - Pricing hypothesis: $15 to 25 per month, or $99 lifetime early-bird; never a commission
 
 ---
-*Auctura AI · 2026 · MIT License*
+*2026 · MIT License*
