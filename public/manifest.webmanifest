@@ -1,0 +1,20 @@
+{
+  "name": "美簿 MeiBook · 一人美业小账本",
+  "short_name": "美簿",
+  "description": "预约、会员卡余额、提醒、收入 — 替代手写本的一人美业工作室小账本",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF6F0",
+  "theme_color": "#FAF6F0",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
